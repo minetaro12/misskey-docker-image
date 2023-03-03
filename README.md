@@ -5,7 +5,7 @@ master(amd64/arm64): https://ghcr.io/minetaro12/misskey
 repo: https://github.com/misskey-dev/misskey/tree/master
 
 develop(amd64/arm64): https://ghcr.io/minetaro12/misskey-develop  
-repo: https://github.com/minetaro12/misskey/tree/docker-develop
+repo: https://github.com/misskey-dev/misskey/tree/develop
 
 めいdolphin(amd64/arm64): https://ghcr.io/minetaro12/dolphin  
 repo: https://github.com/mei23/dolphin
