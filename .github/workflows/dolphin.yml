@@ -1,6 +1,9 @@
 name: dolphin - Build and Push
 
-on: [ workflow_dispatch ]
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
